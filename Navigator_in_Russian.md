@@ -16,7 +16,7 @@
 
 
 
-Первые задачи из курса компании Netcracker по Java (реализация классов):
+Первые задачи из курса компании [Netcracker](http://ncedu.ru/) по Java (реализация классов):
 * [Класс для узла дерева](https://github.com/Sir-Nightmare/TreeNode)
 * [Класс для комплексного числа](https://github.com/Sir-Nightmare/Complex_Numbers)
 * [Класс для вектора](https://github.com/Sir-Nightmare/ArrayVector)
