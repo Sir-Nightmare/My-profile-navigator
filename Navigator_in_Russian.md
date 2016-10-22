@@ -13,6 +13,7 @@
 * [Список друзей онлайн Вконтакте(API Вконтакте)](https://github.com/Sir-Nightmare/8_vk_friends_online)
 * [Вывод наиболее популярных репозиториев Github, созданных за последнюю неделю, и количество открытых ssues к ним (API Github)](https://github.com/Sir-Nightmare/9_github_trending)
 * [Поиск и удаление дубликатов файлов](https://github.com/Sir-Nightmare/11_duplicates)
+* [Мониторинг сайтов](https://github.com/Sir-Nightmare/17_sites_monitoring)
 
 
 
