@@ -12,6 +12,7 @@
 * [Проверка надежности пароля](https://github.com/Sir-Nightmare/6_password_strength)
 * [Список друзей онлайн Вконтакте(API Вконтакте)](https://github.com/Sir-Nightmare/8_vk_friends_online)
 * [Вывод наиболее популярных репозиториев Github, созданных за последнюю неделю, и количество открытых issues к ним (API Github)](https://github.com/Sir-Nightmare/9_github_trending)
+* [Вывод списка участников, сдававших задачи в ночное время (API devman.org)](https://github.com/Sir-Nightmare/15_midnighters)
 * [Поиск и удаление дубликатов файлов](https://github.com/Sir-Nightmare/11_duplicates)
 * [Мониторинг сайтов](https://github.com/Sir-Nightmare/17_sites_monitoring)
 
