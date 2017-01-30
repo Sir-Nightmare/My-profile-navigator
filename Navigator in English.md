@@ -1,4 +1,4 @@
-#Wellcome to my profile!
+#Welcome to my profile!
 
 **[Навигатор на русском языке](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/README.md)**
 
