@@ -27,12 +27,12 @@ Send me e-mail: sir-nightmare@yandex.ru
 16. [Генератор сайтов](https://github.com/Sir-Nightmare/19_site_generator)
 
 
-####[Avtotests for Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (Safeboard Internship homework) `Python`
+####[Autotests for Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (Safeboard Internship homework) `Python`
 ####[Tasks from the first stage of contest to hh.ru coding school](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
 
 ####First tasks from [Netcracker](http://ncedu.ru/) course `Java`:
-* [Класс для узла дерева](https://github.com/Sir-Nightmare/TreeNode)
-* [Класс для комплексного числа](https://github.com/Sir-Nightmare/Complex_Numbers)
-* [Класс для вектора](https://github.com/Sir-Nightmare/ArrayVector)
-* [Класс для сотрудника](https://github.com/Sir-Nightmare/Employee)
+* [Tree node class](https://github.com/Sir-Nightmare/TreeNode)
+* [Complex number class](https://github.com/Sir-Nightmare/Complex_Numbers)
+* [Vector class](https://github.com/Sir-Nightmare/ArrayVector)
+* [Employee class](https://github.com/Sir-Nightmare/Employee)
 
