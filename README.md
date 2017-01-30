@@ -8,7 +8,9 @@
 
 ## Предлагаю ознакомиться с наиболее интересными задачами.
 
-**Задачи из проекта [Devman.org](https://devman.org/)** `Python+Web`:
+**[Автотесты Kaspersky Internet Security (д/з Safeboard)]()** `Python`
+
+**Задачи из проекта [Devman.org](https://devman.org/)** `Python + Web`:
 
 1. [Поиск самого большого, самого маленького и ближайшего бара из списка.](https://github.com/Sir-Nightmare/3_bars)
 2. [Вывод json файла в виде, удобном для чтения](https://github.com/Sir-Nightmare/4_json)
