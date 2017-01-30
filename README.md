@@ -1,6 +1,6 @@
 #Рад приветствовать Вас в моем профиле!
 
-**[Navigator in English](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/Navigator%20in%20Enlish.md)**
+**[Navigator in English](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/Navigator%20in%20English.md)**
 
 Мой профиль в [Linked.in](http://www.linkedin.com/in/ivan-tochilkin).  
 Отправить мне e-mail: sir-nightmare@yandex.ru
