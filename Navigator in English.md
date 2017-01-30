@@ -27,7 +27,7 @@ Send me e-mail: sir-nightmare@yandex.ru
 16. [Генератор сайтов](https://github.com/Sir-Nightmare/19_site_generator)
 
 
-####[Avtotests for Kaspersky Internet Security (Safeboard Internship homework)](https://github.com/Sir-Nightmare/autotests) `Python`
+####[Avtotests for Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (Safeboard Internship homework) `Python`
 ####[Tasks from the first stage of contest to hh.ru coding school](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
 
 ####First tasks from [Netcracker](http://ncedu.ru/) course `Java`:

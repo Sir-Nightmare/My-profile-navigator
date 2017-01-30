@@ -27,7 +27,7 @@
 16. [Генератор сайтов](https://github.com/Sir-Nightmare/19_site_generator)
 
 
-####[Автотесты Kaspersky Internet Security (д/з Safeboard)](https://github.com/Sir-Nightmare/autotests) `Python`
+####[Автотесты Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (д/з Safeboard) `Python`
 ####[Решение задач первого этапа отбора в школу программирования hh.ru](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
 
 ####Первые задачи из курса компании [Netcracker](http://ncedu.ru/) `Java`:
