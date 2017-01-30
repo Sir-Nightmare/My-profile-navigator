@@ -1,14 +1,11 @@
 #Рад приветствовать Вас в моем профиле!
 
-**UPDATE 30.01.17:**  Сегодня или завтра в этот список будут добавлены решения задач по автотестам (дз Safeboard).
-
 **[Navigator in English](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/Navigator%20in%20Enlish.md)**
 
-Мой профиль в [Linked.in](http://www.linkedin.com/in/ivan-tochilkin). Отправить мне e-mail: sir-nightmare@yandex.ru
+Мой профиль в [Linked.in](http://www.linkedin.com/in/ivan-tochilkin).  
+Отправить мне e-mail: sir-nightmare@yandex.ru
 
 ## Предлагаю ознакомиться с наиболее интересными задачами.
-
-####[Автотесты Kaspersky Internet Security (д/з Safeboard)]() `Python`
 
 ####Задачи из проекта [Devman.org](https://devman.org/)`Python + Web`:
 
@@ -30,6 +27,7 @@
 16. [Генератор сайтов](https://github.com/Sir-Nightmare/19_site_generator)
 
 
+####[Автотесты Kaspersky Internet Security (д/з Safeboard)](https://github.com/Sir-Nightmare/autotests) `Python`
 ####[Решение задач первого этапа отбора в школу программирования hh.ru](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
 
 ####Первые задачи из курса компании [Netcracker](http://ncedu.ru/) `Java`:
