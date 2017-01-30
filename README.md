@@ -28,7 +28,7 @@
 16. [Генератор сайтов](https://github.com/Sir-Nightmare/19_site_generator)
 
 
-[Решение задач первого этапа отбора в школу программирования hh.ru](https://github.com/Sir-Nightmare/hh_tasks)**(Python)**
+[Решение задач первого этапа отбора в школу программирования hh.ru](https://github.com/Sir-Nightmare/hh_tasks) **(Python)**
 
 Первые задачи из курса компании [Netcracker](http://ncedu.ru/) **(реализация классов на Java)** :
 * [Класс для узла дерева](https://github.com/Sir-Nightmare/TreeNode)
