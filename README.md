@@ -1,10 +1,10 @@
-[Navigator in English](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/Navigator%20in%20Enlish.md)
 #Рад приветствовать Вас в моем профиле!
 
 **UPDATE 30.01.17:**  Сегодня или завтра в этот список будут добавлены решения задач по автотестам (дз Safeboard).
 
+**[Navigator in English](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/Navigator%20in%20Enlish.md)**
 
-Мой профиль в [Linked.in](http://www.linkedin.com/in/ivan-tochilkin).
+Мой профиль в [Linked.in](http://www.linkedin.com/in/ivan-tochilkin). Отправить мне e-mail: sir-nightmare@yandex.ru
 
 ## Предлагаю ознакомиться с наиболее интересными задачами.
 
