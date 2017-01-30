@@ -1,16 +1,14 @@
 [Navigator in English](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/Navigator%20in%20Enlish.md)
 #Рад приветствовать Вас в моем профиле!
 
-**UPDATE 24.01.17:**  Сегодня или завтра в этот список будут добавлены остальные сделанные задачи проекта  Devman (последние 7 репозиториев при сортировке по времени коммитов).  
-Эти задачи могут вызвать больший интерес, чем уже присутствующие в списке, тк они более сложные. Пока их можно посмотреть [тут](https://github.com/Sir-Nightmare?tab=repositories).  
-Также я планирую добавить решения задач по автотестам (дз Safeboard).
+**UPDATE 30.01.17:**  Сегодня или завтра в этот список будут добавлены решения задач по автотестам (дз Safeboard).
 
 
 Мой профиль в [Linked.in](http://www.linkedin.com/in/ivan-tochilkin)
 
 Предлагаю ознакомиться с наиболее интересными задачами.
 
-Задачи на Python из проекта [Devman.org](https://devman.org/):
+Задачи из проекта [Devman.org](https://devman.org/) **(Python+Web)**:
 
 1. [Поиск самого большого, самого маленького и ближайшего бара из списка.](https://github.com/Sir-Nightmare/3_bars)
 2. [Вывод json файла в виде, удобном для чтения](https://github.com/Sir-Nightmare/4_json)
@@ -21,10 +19,18 @@
 7. [Вывод списка участников, сдававших задачи в ночное время (API devman.org)](https://github.com/Sir-Nightmare/15_midnighters)
 8. [Поиск и удаление дубликатов файлов](https://github.com/Sir-Nightmare/11_duplicates)
 9. [Мониторинг сайтов](https://github.com/Sir-Nightmare/17_sites_monitoring)
+10. [Данные о курсах на Курсере](https://github.com/Sir-Nightmare/10_coursera)
+11. [Ресайзер изображений](https://github.com/Sir-Nightmare/12_image_resize)
+12. [Автозапуск тестов (pre-commit hook)](https://github.com/Sir-Nightmare/14_pre_commit_hook)
+13. [Поиск лучших фильмов в кинотеатрах](https://github.com/Sir-Nightmare/13_cinemas)
+14. [Сайт в оффлайн](https://github.com/Sir-Nightmare/16_offline_site)
+15. [Форматирование цены](https://github.com/Sir-Nightmare/18_price_format)
+16. [Генератор сайтов](https://github.com/Sir-Nightmare/19_site_generator)
 
-[Решение задач первого этапа отбора в школу программирования hh.ru (Python)](https://github.com/Sir-Nightmare/hh_tasks)
 
-Первые задачи из курса компании [Netcracker](http://ncedu.ru/) по Java (реализация классов):
+[Решение задач первого этапа отбора в школу программирования hh.ru](https://github.com/Sir-Nightmare/hh_tasks)**(Python)**
+
+Первые задачи из курса компании [Netcracker](http://ncedu.ru/) **(реализация классов на Java)** :
 * [Класс для узла дерева](https://github.com/Sir-Nightmare/TreeNode)
 * [Класс для комплексного числа](https://github.com/Sir-Nightmare/Complex_Numbers)
 * [Класс для вектора](https://github.com/Sir-Nightmare/ArrayVector)
