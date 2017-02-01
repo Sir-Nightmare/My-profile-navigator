@@ -26,7 +26,7 @@
 15. [Форматирование цены](https://github.com/Sir-Nightmare/18_price_format)
 16. [Генератор сайтов](https://github.com/Sir-Nightmare/19_site_generator)
 
-
+####[Эмулятор базы данных библиотеки](https://github.com/Sir-Nightmare/library) (д/з Safeboard) `Python`
 ####[Автотесты Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (д/з Safeboard) `Python`
 ####[Решение задач первого этапа отбора в школу программирования hh.ru](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
 
