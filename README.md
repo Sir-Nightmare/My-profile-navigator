@@ -1,4 +1,4 @@
-#Рад приветствовать Вас в моем профиле!
+# Рад приветствовать Вас в моем профиле!
 
 **[Navigator in English](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/Navigator%20in%20English.md)**
 
@@ -7,7 +7,7 @@
 
 ## Предлагаю ознакомиться с наиболее интересными задачами.
 
-####Задачи из проекта [Devman.org](https://devman.org/)`Python + Web`:
+#### Задачи из проекта [Devman.org](https://devman.org/)`Python + Web`:
 
 1. [Поиск самого большого, самого маленького и ближайшего бара из списка.](https://github.com/Sir-Nightmare/3_bars)
 2. [Вывод json файла в виде, удобном для чтения](https://github.com/Sir-Nightmare/4_json)
@@ -26,13 +26,13 @@
 15. [Форматирование цены](https://github.com/Sir-Nightmare/18_price_format)
 16. [Генератор сайтов](https://github.com/Sir-Nightmare/19_site_generator)
 
-####[Эмулятор базы данных библиотеки](https://github.com/Sir-Nightmare/library) (д/з Safeboard) `Python`
+#### [Эмулятор базы данных библиотеки](https://github.com/Sir-Nightmare/library) (д/з Safeboard) `Python`
 
-####[Автотесты Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (д/з Safeboard) `Python`
+#### [Автотесты Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (д/з Safeboard) `Python`
 
-####[Решение задач первого этапа отбора в школу программирования hh.ru](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
+#### [Решение задач первого этапа отбора в школу программирования hh.ru](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
 
-####Первые задачи из курса компании [Netcracker](http://ncedu.ru/) `Java`:
+#### Первые задачи из курса компании [Netcracker](http://ncedu.ru/) `Java`:
 * [Класс для узла дерева](https://github.com/Sir-Nightmare/TreeNode)
 * [Класс для комплексного числа](https://github.com/Sir-Nightmare/Complex_Numbers)
 * [Класс для вектора](https://github.com/Sir-Nightmare/ArrayVector)
