@@ -1,4 +1,4 @@
-#Welcome to my profile!
+# Welcome to my profile!
 
 **[Навигатор на русском языке](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/README.md)**
 
@@ -7,7 +7,7 @@ Send me e-mail: sir-nightmare@yandex.ru
 
 ## Please have a look at the most interesting tasks in my profile.
 
-####Tasks from [Devman.org](https://devman.org/) project `Python + Web`:
+#### Tasks from [Devman.org](https://devman.org/) project `Python + Web`:
 
 1. [The biggest, the smallest and the closest bar from the list.](https://github.com/Sir-Nightmare/3_bars)
 2. [Prettify JSON](https://github.com/Sir-Nightmare/4_json)
@@ -27,11 +27,10 @@ Send me e-mail: sir-nightmare@yandex.ru
 16. [Site generator](https://github.com/Sir-Nightmare/19_site_generator)
 
 
-####[Library database emulator](https://github.com/Sir-Nightmare/library) (Safeboard Internship homework) `Python`
-####[Autotests for Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (Safeboard Internship homework) `Python`
-####[Tasks from the first stage of contest to hh.ru coding school](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
-
-####First tasks from [Netcracker](http://ncedu.ru/) course `Java`:
+#### [Library database emulator](https://github.com/Sir-Nightmare/library) (Safeboard Internship homework) `Python`
+#### [Autotests for Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (Safeboard Internship homework) `Python`
+#### [Tasks from the first stage of contest to hh.ru coding school](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
+#### First tasks from [Netcracker](http://ncedu.ru/) course `Java`:
 * [Tree node class](https://github.com/Sir-Nightmare/TreeNode)
 * [Complex number class](https://github.com/Sir-Nightmare/Complex_Numbers)
 * [Vector class](https://github.com/Sir-Nightmare/ArrayVector)
