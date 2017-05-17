@@ -3,8 +3,8 @@
 **[Навигатор на русском языке](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/README.md)**
 
 My profile in [Linked.in](http://www.linkedin.com/in/ivan-tochilkin).  
-Send me e-mail: sir-nightmare@yandex.ru
-[My CV](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/cv_Tochilkin_Ivan_en.pdf)
+Send me e-mail: sir-nightmare@yandex.ru  
+[**My CV**](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/cv_Tochilkin_Ivan_en.pdf)
 
 ## Please have a look at the most interesting tasks in my profile.
 
