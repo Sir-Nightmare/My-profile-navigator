@@ -4,6 +4,7 @@
 
 Мой профиль в [Linked.in](http://www.linkedin.com/in/ivan-tochilkin).  
 Отправить мне e-mail: sir-nightmare@yandex.ru
+[**Мое резюме**](https://github.com/Sir-Nightmare/My-profile-navigator/blob/master/cv_Tochilkin_Ivan_ru.pdf)
 
 ## Предлагаю ознакомиться с наиболее интересными задачами.
 
