@@ -33,7 +33,7 @@
 
 #### [Решение задач первого этапа отбора в школу программирования hh.ru](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
 
-#### Первые задачи из курса компании [Netcracker](http://ncedu.ru/) `Java`:
+#### Первые задачи из курса компании Netcracker `Java`:
 * [Класс для узла дерева](https://github.com/Sir-Nightmare/TreeNode)
 * [Класс для комплексного числа](https://github.com/Sir-Nightmare/Complex_Numbers)
 * [Класс для вектора](https://github.com/Sir-Nightmare/ArrayVector)
