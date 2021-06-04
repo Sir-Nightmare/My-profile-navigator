@@ -31,7 +31,7 @@ Send me e-mail: sir-nightmare@yandex.ru
 #### [Library database emulator](https://github.com/Sir-Nightmare/library) (Safeboard Internship homework) `Python`
 #### [Autotests for Kaspersky Internet Security](https://github.com/Sir-Nightmare/autotests) (Safeboard Internship homework) `Python`
 #### [Tasks from the first stage of contest to hh.ru coding school](https://github.com/Sir-Nightmare/hh_tasks)  `Python`
-#### First tasks from [Netcracker](http://ncedu.ru/) course `Java`:
+#### First tasks from Netcracker course `Java`:
 * [Tree node class](https://github.com/Sir-Nightmare/TreeNode)
 * [Complex number class](https://github.com/Sir-Nightmare/Complex_Numbers)
 * [Vector class](https://github.com/Sir-Nightmare/ArrayVector)
